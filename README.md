@@ -1,6 +1,5 @@
 # CollegeReview
-
-“User can find all details of each collage like what is the fee of the collage ,review of the other people on this collage ,location of the collage.all these details will be posted by some other user .This applicaiton helps students to find best collage. 
+This application helps users to find the best college before taking admission to a college. As we all search about a particular college and is culture,hostal, education system, etc before taking admission. A user can see all about a particular college like fees,hostal, courses etc. And this information is written by some other user.
 
 ### This is home page here all collages are listed ,these post are shared by some other user
 <img src="images/1.png" width="100%" align="top-left" alt="" />
