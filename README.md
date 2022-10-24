@@ -4,7 +4,7 @@ This application helps users to find the best college before taking admission to
 ### This is home page here all collages are listed ,these post are shared by some other user
 <img src="images/1.png" width="100%" align="top-left" alt="" />
 
-### User can view details of a post 
+### User can view details of a post. 
 <img src="images/2.png" width="100%" align="top-left" alt="" />
 
 ### if a user wants to update a post can do .only author of the post can edit the post.
